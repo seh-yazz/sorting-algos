@@ -1,2 +1,2 @@
 # sorting-algos
-sorting algorithms
+sorting algorithms and search techniques
